@@ -1,4 +1,3 @@
-Some big, beautiful changes in first row
-some in second
+Other changes in first row
+one in second
 
-and some in fourth
